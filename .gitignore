@@ -10,6 +10,13 @@
 *.userosscache
 *.sln.docstates
 
+*.aux
+*.fls
+*.synctex.gz
+*.log
+*.fdb_latexmk
+*.toc
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
